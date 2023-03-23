@@ -1,0 +1,11 @@
+{
+  "name": "ac-data",
+  "version": "1.0.0",
+  "description": "json api for asoiaf character project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adan A Hassan",
+  "license": "ISC"
+}

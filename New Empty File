@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/AdanAHassan/ac-api.git
+git add .
+git push --set-upstream origin master
