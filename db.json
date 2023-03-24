@@ -1,4 +1,5 @@
-[
+{      
+    "POV": [
     {
     "name" : "Aeron Greyjoy",
     "house" : ["Greyjoy"],
@@ -221,5 +222,5 @@
         },
     "image" : "https://awoiaf.westeros.org/images/7/73/Victarion_Greyjoy_TheMico.jpg"
     }
-]
+]}
 
