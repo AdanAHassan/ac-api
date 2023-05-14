@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start-server": "json-server --watch db.json --port 5000"
   },
   "author": "Adan A Hassan",
   "license": "ISC",
