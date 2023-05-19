@@ -247,6 +247,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -375,6 +378,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -529,6 +535,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -677,6 +686,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingsOfMountainAndVale": {
                         "title": "Kings of Mountain and Vale",
@@ -745,6 +757,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -912,6 +927,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -1125,6 +1143,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -1215,6 +1236,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -1325,6 +1349,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origins": {
                         "title": "Origins",
@@ -1427,6 +1454,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -1547,6 +1577,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "andalInvasion": {
                         "title": "Andal invasion",
@@ -1570,6 +1603,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -1669,6 +1705,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "targaryenEra": {
                         "title": "Targaryen Era",
@@ -1704,6 +1743,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -1862,6 +1904,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -1996,6 +2041,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -2152,6 +2200,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -2314,6 +2365,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -2407,6 +2461,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -2559,6 +2616,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -2628,6 +2688,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -2686,6 +2749,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origin": {
                         "title": "Origin",
@@ -2842,6 +2908,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -3002,6 +3071,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -3107,6 +3179,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -3171,6 +3246,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -3230,6 +3308,9 @@
                 ]
             },
             "references": {
+                "title": "References",
+                "id": "references",
+                "terminal": false,
                 "content": {
                     "notes": {
                         "title": "Notes",
@@ -3376,6 +3457,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -3569,6 +3653,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -3641,6 +3728,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -3705,6 +3795,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "redKings": {
                         "title": "Red Kings",
@@ -3738,6 +3831,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -3890,6 +3986,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -4006,6 +4105,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -4098,6 +4200,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -4257,6 +4362,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -4316,6 +4424,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -4435,6 +4546,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -4508,6 +4622,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -4620,6 +4737,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "theWindsOfWinter": {
                         "title": "The Winds of Winter",
@@ -5041,6 +5161,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -5145,6 +5268,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -5226,6 +5352,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -5327,6 +5456,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -5424,6 +5556,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -5548,6 +5683,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -5680,6 +5818,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -5838,6 +5979,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -5912,6 +6056,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -6122,6 +6269,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -6252,6 +6402,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -6335,6 +6488,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origin": {
                         "title": "Origin",
@@ -6357,6 +6513,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -6444,6 +6603,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -6592,6 +6754,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -6697,6 +6862,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -6889,6 +7057,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -7037,6 +7208,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -7113,6 +7287,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -7194,6 +7371,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -7340,6 +7520,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -7416,6 +7599,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -7539,6 +7725,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -7616,6 +7805,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -7715,6 +7907,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -7778,6 +7973,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -7933,6 +8131,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -8052,6 +8253,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "foundation": {
                         "title": "Foundation",
@@ -8091,6 +8295,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -8297,6 +8504,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -8389,6 +8599,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -8485,6 +8698,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -8578,6 +8794,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -8716,6 +8935,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -9035,6 +9257,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -9126,6 +9351,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -9225,6 +9453,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -9285,6 +9516,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -9342,6 +9576,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "earlyDarklyns": {
                         "title": "Early Darklyns",
@@ -9377,6 +9614,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -9389,6 +9629,9 @@
                 }
             },
             "historicalMembers": {
+                "title": "Historical members",
+                "id": "historical_members",
+                "terminal": false,
                 "content": {
                     "knownDarklynsWhoServedInTheKingsguard": {
                         "title": "Known Darklyns who served in the Kingsguard",
@@ -9491,6 +9734,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -9542,6 +9788,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "firstMenAndAndals": {
                         "title": "First Men and Andals",
@@ -9579,6 +9828,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -9713,6 +9965,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingsOfTheTorrentine": {
                         "title": "Kings of the Torrentine",
@@ -9749,6 +10004,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -9881,6 +10139,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -9967,6 +10228,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -10099,6 +10363,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -10272,6 +10539,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -10406,6 +10676,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -10572,6 +10845,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -10781,6 +11057,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origins": {
                         "title": "Origins",
@@ -10814,6 +11093,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -10975,6 +11257,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -11118,6 +11403,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -11198,6 +11486,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -11303,6 +11594,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -11416,6 +11710,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -11508,6 +11805,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -11572,6 +11872,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -11613,6 +11916,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -11703,6 +12009,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -11791,6 +12100,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -11843,6 +12155,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -11935,6 +12250,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -12029,6 +12347,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -12170,6 +12491,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -12405,6 +12729,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -12502,6 +12829,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -12627,6 +12957,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -12736,6 +13069,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingdomOfTheReach": {
                         "title": "Kingdom of the Reach",
@@ -12767,6 +13103,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -12904,6 +13243,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -12976,6 +13318,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -13051,6 +13396,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -13148,6 +13496,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -13224,6 +13575,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -13300,6 +13654,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -13425,6 +13782,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -13541,6 +13901,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -13637,6 +14000,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -13704,6 +14070,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origin": {
                         "title": "Origin",
@@ -13741,6 +14110,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -13906,6 +14278,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -14041,6 +14416,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -14192,6 +14570,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -14406,6 +14787,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -14538,6 +14922,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -14626,6 +15013,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -14736,6 +15126,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -14791,6 +15184,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -14846,6 +15242,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -14901,6 +15300,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -14958,6 +15360,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -15060,6 +15465,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -15141,6 +15549,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -15223,6 +15634,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "andalInvasion": {
                         "title": "Andal invasion",
@@ -15255,6 +15669,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -15370,6 +15787,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -15508,6 +15928,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -15651,6 +16074,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -15741,6 +16167,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -15875,6 +16304,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "driftwoodKings": {
                         "title": "Driftwood Kings",
@@ -15955,6 +16387,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ancientHistory": {
                         "title": "Ancient History",
@@ -15998,6 +16433,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -16068,6 +16506,9 @@
                 }
             },
             "knownMembersAtTheEndOfTheThirdCentury": {
+                "title": "Known members at the end of the third century",
+                "id": "known_members_at_the_end_of_the_third_century",
+                "terminal": false,
                 "content": {
                     "otherBranches": {
                         "title": "Other branches",
@@ -16210,6 +16651,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -16342,6 +16786,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -16430,6 +16877,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -16494,6 +16944,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -16641,6 +17094,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -16709,6 +17165,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -16741,6 +17200,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -16857,6 +17319,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -16926,6 +17391,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -16993,6 +17461,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -17060,6 +17531,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -17149,6 +17623,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -17240,6 +17717,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -17379,6 +17859,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -17577,6 +18060,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -17672,6 +18158,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -17806,6 +18295,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -17945,6 +18437,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -18040,6 +18535,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "hightowerKings": {
                         "title": "Hightower Kings",
@@ -18094,6 +18592,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -18221,6 +18722,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -18255,6 +18759,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -18339,6 +18846,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -18417,6 +18927,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -18438,6 +18951,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -18593,6 +19109,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -18704,6 +19223,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "danceOfTheDragons": {
                         "title": "Dance of the Dragons",
@@ -18727,6 +19249,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -18850,6 +19375,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -18989,6 +19517,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -19056,6 +19587,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -19129,6 +19663,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -19287,6 +19824,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -19358,6 +19898,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -19485,6 +20028,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -19582,6 +20128,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -19778,6 +20327,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -20041,6 +20593,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -20130,6 +20685,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -20235,6 +20793,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -20402,6 +20963,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -20537,6 +21101,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -20835,6 +21402,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "firstMenKings": {
                         "title": "First Men Kings",
@@ -20945,6 +21515,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -21117,6 +21690,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -21227,6 +21803,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -21471,6 +22050,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -21534,6 +22116,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -21642,6 +22227,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -21721,6 +22309,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -21872,6 +22463,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "theWindsOfWinter": {
                         "title": "The Winds of Winter",
@@ -21945,6 +22539,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -22122,6 +22719,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -22255,6 +22855,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -22381,6 +22984,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -22461,6 +23067,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "knights": {
                         "title": "Knights",
@@ -22486,6 +23095,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -22715,6 +23327,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -22802,6 +23417,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -22902,6 +23520,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23000,6 +23621,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -23079,6 +23703,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23153,6 +23780,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "andalEra": {
                         "title": "Andal Era",
@@ -23192,6 +23822,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23324,6 +23957,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingdomOfTheReach": {
                         "title": "Kingdom of the Reach",
@@ -23370,6 +24006,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23510,6 +24149,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -23623,6 +24265,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -23726,6 +24371,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23849,6 +24497,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -23940,6 +24591,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "founding": {
                         "title": "Founding",
@@ -23992,6 +24646,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -24120,6 +24777,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "antiquity": {
                         "title": "Antiquity",
@@ -24145,6 +24805,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -24266,6 +24929,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -24416,6 +25082,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -24500,6 +25169,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "targaryenDynasty": {
                         "title": "Targaryen dynasty",
@@ -24523,6 +25195,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -24623,6 +25298,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -24757,6 +25435,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -24846,6 +25527,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -24936,6 +25620,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "hundredKingdoms": {
                         "title": "Hundred Kingdoms",
@@ -24970,6 +25657,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -25092,6 +25782,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -25168,6 +25861,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origin": {
                         "title": "Origin",
@@ -25202,6 +25898,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -25344,6 +26043,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -25507,6 +26209,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -25588,6 +26293,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -25732,6 +26440,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -25819,6 +26530,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -25891,6 +26605,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -25946,6 +26663,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -26012,6 +26732,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -26086,6 +26809,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -26181,6 +26907,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -26305,6 +27034,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "hundredKingdoms": {
                         "title": "Hundred Kingdoms",
@@ -26339,6 +27071,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -26522,6 +27257,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -26658,6 +27396,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "earlyHistory": {
                         "title": "Early History",
@@ -26876,6 +27617,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -27039,6 +27783,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -27133,6 +27880,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingdomOfTheReach": {
                         "title": "Kingdom of the Reach",
@@ -27162,6 +27912,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -27275,6 +28028,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -27410,6 +28166,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -27490,6 +28249,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -27556,6 +28318,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -27626,6 +28391,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -27793,6 +28561,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -27917,6 +28688,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -28056,6 +28830,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -28139,6 +28916,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -28201,6 +28981,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -28553,6 +29336,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "comingOfTheAndals": {
                         "title": "Coming of the Andals",
@@ -28585,6 +29371,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -28731,6 +29520,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -28851,6 +29643,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -28987,6 +29782,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -29101,6 +29899,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingsOfTheArbor": {
                         "title": "Kings of the Arbor",
@@ -29146,6 +29947,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -29292,6 +30096,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -29400,6 +30207,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "ageOfHeroes": {
                         "title": "Age of Heroes",
@@ -29436,6 +30246,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -29807,6 +30620,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -29887,6 +30703,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "crownlands": {
                         "title": "Crownlands",
@@ -29919,6 +30738,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -30036,6 +30858,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -30237,6 +31062,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "bronzeKings": {
                         "title": "Bronze Kings",
@@ -30282,6 +31110,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -30430,6 +31261,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -30646,6 +31480,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -30769,6 +31606,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -30866,6 +31706,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -30970,6 +31813,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -31061,6 +31907,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -31148,6 +31997,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -31262,6 +32114,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -31365,6 +32220,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -31424,6 +32282,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -31551,6 +32412,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -31661,6 +32525,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -31761,6 +32628,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -31838,6 +32708,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -32061,6 +32934,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -32118,6 +32994,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -32188,6 +33067,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -32263,6 +33145,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -32341,6 +33226,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -32470,6 +33358,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -32597,6 +33488,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -32698,6 +33592,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -32793,6 +33690,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -32961,6 +33861,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -33039,6 +33942,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -33176,6 +34082,9 @@
                 ]
             },
             "culture": {
+                "title": "Culture",
+                "id": "culture",
+                "terminal": false,
                 "content": {
                     "traits": {
                         "title": "Traits",
@@ -33200,6 +34109,9 @@
                 }
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingsInTheNorth": {
                         "title": "Kings in the North",
@@ -33270,6 +34182,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -33489,6 +34404,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -33583,6 +34501,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -33709,6 +34630,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -33805,6 +34729,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -33877,6 +34804,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -33976,6 +34906,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -34035,6 +34968,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -34086,6 +35022,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origin": {
                         "title": "Origin",
@@ -34127,6 +35066,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -34280,6 +35222,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -34358,6 +35303,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -34428,6 +35376,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -34527,6 +35478,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -34636,6 +35590,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -34704,6 +35661,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -34885,6 +35845,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -35085,6 +36048,9 @@
                 ]
             },
             "culture": {
+                "title": "Culture",
+                "id": "culture",
+                "terminal": false,
                 "content": {
                     "traits": {
                         "title": "Traits",
@@ -35254,6 +36220,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -35317,6 +36286,9 @@
                 ]
             },
             "historicalMembers": {
+                "title": "Historical Members",
+                "id": "historical_members",
+                "terminal": false,
                 "content": {
                     "onDragonstone": {
                         "content": {
@@ -35436,6 +36408,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -35587,6 +36562,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -35711,6 +36689,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -35860,6 +36841,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -36013,6 +36997,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -36105,6 +37092,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -36195,6 +37185,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -36302,6 +37295,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -36649,6 +37645,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -36801,6 +37800,9 @@
                 ]
             },
             "culture": {
+                "title": "Culture",
+                "id": "culture",
+                "terminal": false,
                 "content": {
                     "traits": {
                         "title": "Traits",
@@ -36822,6 +37824,9 @@
                 }
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "preConquestEra": {
                         "title": "Pre-Conquest Era",
@@ -36856,6 +37861,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -36990,6 +37998,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -37063,6 +38074,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "kingdomOfTheReach": {
                         "title": "Kingdom of the Reach",
@@ -37092,6 +38106,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -37236,6 +38253,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -37414,6 +38434,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -37512,6 +38535,9 @@
                 ]
             },
             "culture": {
+                "title": "Culture",
+                "id": "culture",
+                "terminal": false,
                 "content": {
                     "traits": {
                         "title": "Traits",
@@ -37553,6 +38579,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -37778,6 +38807,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -37875,6 +38907,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -38012,6 +39047,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -38161,6 +39199,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -38231,6 +39272,9 @@
                 ]
             },
             "culture": {
+                "title": "Culture",
+                "id": "culture",
+                "terminal": false,
                 "content": {
                     "traits": {
                         "title": "Traits",
@@ -38252,6 +39296,9 @@
                 }
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "origins": {
                         "title": "Origins",
@@ -38327,6 +39374,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -38366,6 +39416,9 @@
                 ]
             },
             "historicalVelaryons": {
+                "title": "Historical Velaryons",
+                "id": "historical_velaryons",
+                "terminal": false,
                 "content": {
                     "familyTree": {
                         "title": "Family tree",
@@ -38446,6 +39499,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -38544,6 +39600,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -38630,6 +39689,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -38991,6 +40053,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -39084,6 +40149,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -39168,6 +40236,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -39356,6 +40427,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -39424,6 +40498,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -39491,6 +40568,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -39557,6 +40637,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -39680,6 +40763,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -39808,6 +40894,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -39946,6 +41035,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -40073,6 +41165,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "theWindsOfWinter": {
                         "title": "The Winds of Winter",
@@ -40257,6 +41352,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -40342,6 +41440,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -40546,6 +41647,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -40609,6 +41713,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -40680,6 +41787,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -40801,6 +41911,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -40902,6 +42015,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -40977,6 +42093,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -41073,6 +42192,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aGameOfThrones": {
                         "title": "A Game of Thrones",
@@ -41175,6 +42297,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -41268,6 +42393,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aClashOfKings": {
                         "title": "A Clash of Kings",
@@ -41347,6 +42475,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -41478,6 +42609,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -41562,6 +42696,9 @@
                 ]
             },
             "history": {
+                "title": "History",
+                "id": "history",
+                "terminal": false,
                 "content": {
                     "firstMen": {
                         "title": "First Men",
@@ -41596,6 +42733,9 @@
                 }
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -41718,6 +42858,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -42192,6 +43335,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42237,6 +43383,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42324,6 +43473,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "theWindsOfWinter": {
                         "title": "The Winds of Winter",
@@ -42365,6 +43517,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -42430,6 +43585,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aFeastForCrows": {
                         "title": "A Feast for Crows",
@@ -42492,6 +43650,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "theWindsOfWinter": {
                         "title": "The Winds of Winter",
@@ -42565,6 +43726,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42604,6 +43768,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42635,6 +43802,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -42694,6 +43864,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42733,6 +43906,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42774,6 +43950,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42827,6 +44006,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42887,6 +44069,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -42944,6 +44129,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43015,6 +44203,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43082,6 +44273,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43121,6 +44315,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -43160,6 +44357,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43203,6 +44403,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -43299,6 +44502,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43350,6 +44556,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43408,6 +44617,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43447,6 +44659,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43498,6 +44713,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43530,6 +44748,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aStormOfSwords": {
                         "title": "A Storm of Swords",
@@ -43578,6 +44799,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43643,6 +44867,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43683,6 +44910,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43750,6 +44980,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
@@ -43918,6 +45151,9 @@
                 ]
             },
             "recentEvents": {
+                "title": "Recent Events",
+                "id": "recent_events",
+                "terminal": false,
                 "content": {
                     "aDanceWithDragons": {
                         "title": "A Dance with Dragons",
