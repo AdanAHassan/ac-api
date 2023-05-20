@@ -2117,7 +2117,7 @@
                 "title": "Coat of arms",
                 "content": [
                     "A black crowned stag and a gold lion, combatant, on a per pale gold and crimson field(Per pale or and gules, a stag, crowned, sable and a lion of the first combatant)",
-                    "Formerly just a black crowned stag on gold(Or, a stag, crowned, sable)"
+                    "Formerly just a black crowned stag on gold (Or, a stag, crowned, sable)"
                 ]
             },
             "seat": {
@@ -45192,7 +45192,7 @@
         "title": "Azure Emperors",
         "id": "Azure_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45208,7 +45208,7 @@
         "title": "Grey Emperors",
         "id": "Grey_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45224,7 +45224,7 @@
         "title": "Indigo Emperors",
         "id": "Indigo_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45240,7 +45240,7 @@
         "title": "Jade Green Emperors",
         "id": "Jade-green_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45256,7 +45256,7 @@
         "title": "Maroon Emperors",
         "id": "Maroon_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45272,7 +45272,7 @@
         "title": "Orange Emperors",
         "id": "Orange_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45288,7 +45288,7 @@
         "title": "Pearl White Emperors",
         "id": "Pearl-white_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45304,7 +45304,7 @@
         "title": "Purple Emperors",
         "id": "Purple_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45320,7 +45320,7 @@
         "title": "Scarlet Emperors",
         "id": "Scarlet_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45337,7 +45337,7 @@
         "title": "Sea Green Emperors",
         "id": "Sea-green_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
@@ -45353,7 +45353,7 @@
         "title": "Yellow Emperors",
         "id": "Yellow_emperors",
         "group": "yiTi",
-        "region": "yiTi",
+        "region": "Yi Ti",
         "content": {
             "intro": {
                 "title": "Intro",
